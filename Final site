@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Final site</title>
+</head>
+<h1>Начальная страница сайта</h1>
+<h2>Общая навигация:</h2>
+<ul>
+    <li><a href="file:///C:/Users/user/Documents/%D0%92%D0%A8%D0%AD/HTML/Final.html" target="_self">Начальная страница сайта</a></li>
+    <li><a href="https://hijoooo.github.io/01/13_14/01-03/01/01.html" target="_blank">Паспорт без форматирования</a></li>
+    <li><a href="https://hijoooo.github.io/01/13_14/01-03/02/02.html" target="_blank">Паспорт с форматированием</a></li>
+    <li><a href="https://hijoooo.github.io/01/13_14/01-03/03/03.html" target="_blank">Решение логической задачи</a></li>
+    <li><a>Здесь будет что то еще</a></li>
+    <li><a>Здесь будет что то еще</a></li>
+
+</ul>
+
+
+</body>
+
+</html>
